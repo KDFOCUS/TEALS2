@@ -16,7 +16,7 @@ A few languages that we discuss for programming:
  -Julia
  
  Tables are also helpful
- |_______|_______|
+ |_Info______|____Time___|
  | Row 1 | Value 1 |
  | Row 1 | Value 2 |
  | Row 3 | Value 3 | 
