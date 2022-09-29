@@ -1,6 +1,6 @@
 #TEALS2 - Level 1 Heading 
 
-This is my text underl level 1. This is for the **Introduction to Software Technology** class at *Towers High School*! Links are easy to make - the high school can be found [here](https://www.towershs.dekalb.k12.ga.us/).
+This is my text under level 1. This is for the **Introduction to Software Technology** class at *Towers High School*! Links are easy to make - the high school can be found[here](https://www.towershs.dekalb.k12.ga.us/).
 
 ![The Towers High School and Dekalb County schools logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
@@ -17,9 +17,9 @@ A few languages that we discuss for programming:
  
  Tables are also helpful
  |_______|_______|
- |Row 1| |Value 1|
- |Row 1||Value|
- |Row 3| Value 3| 
+ | Row 1 | Value 1 |
+ | Row 1 | Value 2 |
+ | Row 3 | Value 3 | 
 
 ##Level 2 Heading 
 
