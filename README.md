@@ -10,13 +10,14 @@ Three things we want to cover are:
 3. How to use HTML and CSS for pages
 
 A few languages that we discuss for programming:
- -C/C++
- -Fortran
- -Python
- -Julia
+ - C/C++
+ - Fortran
+ - Python
+ - Julia
  
  Tables are also helpful
- |-------|---------|
+ |Syntax | Description |
+ |-----------|-----------|
  | Row 1 | Value 1 |
  | Row 1 | Value 2 |
  | Row 3 | Value 3 | 
